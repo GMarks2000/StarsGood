@@ -55,7 +55,7 @@ namespace StarsGood
 
         private void Form1_Click(object sender, EventArgs e)
         {
-            StarField(1000);
+            StarField(1001);
         }
     }
 }
