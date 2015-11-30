@@ -33,7 +33,7 @@ namespace StarsGood
             int g;
             int b;
 
-            int starCounter = 0;
+            int starCounter = 1;
 
             while (starCounter < stars)
             {
@@ -55,7 +55,7 @@ namespace StarsGood
 
         private void Form1_Click(object sender, EventArgs e)
         {
-            StarField(1001);
+            StarField(10010);
         }
     }
 }
